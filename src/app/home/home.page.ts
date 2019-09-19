@@ -65,7 +65,12 @@ export class HomePage {
     {
       alphabet: 'L',
       word: 'Lion',
-
+      image: ''
+    }
+    {
+      alphabet: 'M',
+      word: 'Moon',
+      image: ''
     }
   ];
 }
