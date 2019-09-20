@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-  Data: any = [
+  Alphabets: any = [
     {
       alphabet: 'A',
       word: 'Apple',
@@ -66,10 +66,75 @@ export class HomePage {
       alphabet: 'L',
       word: 'Lion',
       image: ''
-    }
+    },
     {
       alphabet: 'M',
       word: 'Moon',
+      image: ''
+    },
+    {
+      alphabet: 'N',
+      word: 'Noodles',
+      image: ''
+    },
+    {
+      alphabet: 'O',
+      word: 'Orange',
+      image: ''
+    },
+    {
+      alphabet: 'P',
+      word: 'Penguin',
+      image: ''
+    },
+    {
+      alphabet: 'Q',
+      word: 'Queen',
+      image: ''
+    },
+    {
+      alphabet: 'R',
+      word: 'Rabbit',
+      image: ''
+    },
+    {
+      alphabet: 'S',
+      word: 'Straw berry',
+      image: ''
+    },
+    {
+      alphabet: 'T',
+      word: 'Tiger',
+      image: ''
+    },
+    {
+      alphabet: 'U',
+      word: 'Umbrella',
+      image: ''
+    },
+    {
+      alphabet: 'V',
+      word: 'Violin',
+      image: ''
+    },
+    {
+      alphabet: 'W',
+      word: 'Watch',
+      image: ''
+    },
+    {
+      alphabet: 'X',
+      word: 'X-ray',
+      image: ''
+    },
+    {
+      alphabet: 'Y',
+      word: 'Yo Yo',
+      image: ''
+    },
+    {
+      alphabet: 'Z',
+      word: 'Zebra',
       image: ''
     }
   ];
