@@ -10,132 +10,132 @@ export class HomePage {
     {
       alphabet: 'A',
       word: 'Apple',
-      image: ''
+      image: '../../../assets/icon/apple.jpg'
     },
     {
       alphabet: 'B',
       word: 'Ball',
-      image: ''
+      image: '../../../assets/icon/ball.jpg'
     },
     {
       alphabet: 'C',
       word: 'Cat',
-      image: ''
+      image: '../../../assets/icon/cat.jpg'
     },
     {
       alphabet: 'D',
       word: 'Doll',
-      image: ''
+      image: '../../../assets/icon/doll.png'
     },
     {
       alphabet: 'E',
       word: 'Egg',
-      image: ''
+      image: '../../../assets/icon/egg.jpg'
     },
     {
       alphabet: 'F',
       word: 'Flower',
-      image: ''
+      image: '../../../assets/icon/flower.jpg'
     },
     {
       alphabet: 'G',
       word: 'Giraffe',
-      image: ''
+      image: '../../../assets/icon/giraffe.jpg'
     },
     {
       alphabet: 'H',
       word: 'Horse',
-      image: ''
+      image: '../../../assets/icon/horse.jpg'
     },
     {
       alphabet: 'I',
       word: 'Ink',
-      image: '',
+      image: '../../../assets/icon/ink.jpg',
     },
     {
       alphabet: 'J',
       word: 'Jeep',
-      image: ''
+      image: '../../../assets/icon/jeep.jpg'
     },
     {
       alphabet: 'K',
       word: 'Kite',
-      image: ''
+      image: '../../../assets/icon/kite.jpg'
     },
     {
       alphabet: 'L',
       word: 'Lion',
-      image: ''
+      image: '../../../assets/icon/lion.jpg'
     },
     {
       alphabet: 'M',
       word: 'Moon',
-      image: ''
+      image: '../../../assets/icon/moon.jpg'
     },
     {
       alphabet: 'N',
       word: 'Noodles',
-      image: ''
+      image: '../../../assets/icon/noodles.jpg'
     },
     {
       alphabet: 'O',
       word: 'Orange',
-      image: ''
+      image: '../../../assets/icon/orange.jpg'
     },
     {
       alphabet: 'P',
       word: 'Penguin',
-      image: ''
+      image: '../../../assets/icon/penguin.jpg'
     },
     {
       alphabet: 'Q',
       word: 'Queen',
-      image: ''
+      image: '../../../assets/icon/queen.jpg'
     },
     {
       alphabet: 'R',
       word: 'Rabbit',
-      image: ''
+      image: '../../../assets/icon/rabbit.jpg'
     },
     {
       alphabet: 'S',
       word: 'Straw berry',
-      image: ''
+      image: '../../../assets/icon/strawberry.jpg'
     },
     {
       alphabet: 'T',
       word: 'Tiger',
-      image: ''
+      image: '../../../assets/icon/tiger.jpg'
     },
     {
       alphabet: 'U',
       word: 'Umbrella',
-      image: ''
+      image: '../../../assets/icon/umbrella.jpg'
     },
     {
       alphabet: 'V',
       word: 'Violin',
-      image: ''
+      image: '../../../assets/icon/violin.jpg'
     },
     {
       alphabet: 'W',
       word: 'Watch',
-      image: ''
+      image: '../../../assets/icon/watch.jpg'
     },
     {
       alphabet: 'X',
       word: 'X-ray',
-      image: ''
+      image: '../../../assets/icon/x_ray.jpg'
     },
     {
       alphabet: 'Y',
       word: 'Yo Yo',
-      image: ''
+      image: '../../../assets/icon/yo_yo.jpg'
     },
     {
       alphabet: 'Z',
       word: 'Zebra',
-      image: ''
+      image: '../../../assets/icon/zebra.jpg'
     }
   ];
 }
